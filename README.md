@@ -1,6 +1,6 @@
 # ethDapp
 A simple ethereum decentralized starter application  
-Meant to act as a starter application to set up a Dapp  
+Meant to act as a starter application to configure a Dapp  
   
 ### Details  
 ethereum starter dapp  
